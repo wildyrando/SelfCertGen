@@ -1,5 +1,4 @@
 # SelfCertGen
-
 SelfCertGen is a simple Python program that allows users to create self-signed certificates easily and quickly. This program can be used to create certificates for internal development and testing purposes, or for personal use that does not require validation from a third party.
 
 ## Requirement
@@ -8,7 +7,6 @@ pip3 install pyopenssl
 ```
 
 ## How to Use
-
 1. Install Python on your system, if it is not already installed.
 2. Clone or download the SelfCertGen repository to your local machine.
 3. Open a terminal or command prompt and navigate to the directory where you cloned or downloaded the repository.
@@ -18,5 +16,4 @@ pip3 install pyopenssl
 7. You can then use the generated certificate and private key for your desired purpose.
 
 ## License
-
 SelfCertGen is licensed under the GNU General Public License V3. See the LICENSE file for more information.
